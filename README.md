@@ -126,7 +126,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 ## See also
 
 - [Mailexam Magento guide (wiki)](https://wiki.mailexam.ru/en/examples/magento/)
-- [WordPress](https://github.com/mailexam/WordPress), [Laravel](https://github.com/mailexam/Laravel), [Symfony](https://github.com/mailexam/Symfony) — other PHP stacks
+- [WordPress](https://github.com/mailexam/WordPress), [1C-Bitrix](https://github.com/mailexam/1C-Bitrix), [Laravel](https://github.com/mailexam/Laravel), [Symfony](https://github.com/mailexam/Symfony) — other PHP stacks
 - [Magento DevDocs — Email](https://developer.adobe.com/commerce/php/development/components/email/)
 - [Mailexam API documentation](https://mailexam.io/api)
 
