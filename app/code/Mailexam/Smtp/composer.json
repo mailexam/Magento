@@ -1,0 +1,20 @@
+{
+    "name": "mailexam/module-smtp",
+    "description": "Mailexam SMTP integration for Magento 2",
+    "type": "magento2-module",
+    "license": "Apache-2.0",
+    "version": "1.0.0",
+    "require": {
+        "php": "^8.1",
+        "magento/framework": "*",
+        "magento/module-email": "*"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Mailexam\\Smtp\\": ""
+        }
+    }
+}
